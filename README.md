@@ -14,6 +14,7 @@ This project demonstrates a simple **ESP32-based IoT system** that reads analog 
 ---
 
 ## Folder Structure
+```
 IOT_PROJECT
 |--  __pycache__
 |--  sketch_nov11a_ino
@@ -21,8 +22,7 @@ IOT_PROJECT
 |--  Flask_API.py
 |--  Graph_Plotting.py
 |--  graph.png
-
-
+```
 ---
 
 ## Setup Instructions
